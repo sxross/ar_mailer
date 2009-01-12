@@ -16,7 +16,6 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--main", "README.txt"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{seattlerb}
-  # s.rubygems_version = %q{1.3.0}      # Do not use, quoting http://www.rubygems.org/read/chapter/20#version
   s.summary = %q{A two-phase delivery agent for ActionMailer}
   s.test_files = ["test/test_armailer.rb", "test/test_arsendmail.rb"]
 
